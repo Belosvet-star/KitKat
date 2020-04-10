@@ -649,8 +649,8 @@ a.video-app{
     padding-left: 17px;
 }
 .footer{
-    display: flex
-   
+    display: flex;
+   justify-content: space-around;
 }
 .footer p{
     color: #fff;
